@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class OrganizationManagementSystemBackApplication {
+public class OrganizationManagerApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(OrganizationManagementSystemBackApplication.class, args);
+        SpringApplication.run(OrganizationManagerApplication.class, args);
     }
 
 }

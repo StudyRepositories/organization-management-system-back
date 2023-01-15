@@ -11,8 +11,8 @@
     <groupId>br.com.study</groupId>
     <artifactId>OrganizationManager</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>organization-management-system-back</name>
-    <description>organization-management-system-back</description>
+    <name>OrganizationManager</name>
+    <description>OrganizationManager</description>
     <properties>
         <java.version>17</java.version>
     </properties>
